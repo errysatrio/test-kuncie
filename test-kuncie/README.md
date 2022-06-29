@@ -7,6 +7,15 @@ First, move to the correct directory:
 ```
 cd test-kuncie
 ```
+Second, create 
+```
+.env.local file
+```
+
+third, insert these line
+```
+BASE_URL=https://baee0c5d-15e7-45e2-ae1b-392ba74406a9.mock.pstmn.io
+```
 
 then you can run the development server:
 
